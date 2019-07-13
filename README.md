@@ -25,6 +25,9 @@ This is an EFI Folder from my Hackintosh build running macOS Mojave. Do not full
 * Battery not yet tested , will try after replacing. Or you can test it yourself
 * LAN
 * HDMI
+* iMessage
+* Facetime
+* App Store*
 
 ## What's Not ?
 * Mic (Audio Input)
@@ -32,3 +35,7 @@ This is an EFI Folder from my Hackintosh build running macOS Mojave. Do not full
 * Internal Card Reader
 * HDMI Audio
 * VGA Port
+
+## Note
+* iMessage, Facetime & Appstore work if your preffered network adapter set to en0 ,else will not work
+* Generate your own SMBIOS using Clover Configurator
