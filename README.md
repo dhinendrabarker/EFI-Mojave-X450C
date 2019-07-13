@@ -11,6 +11,7 @@ This is an EFI Folder from my Hackintosh build running macOS Mojave. Do not full
 * NVIDIA GT720M (Disabled. Not supported)
 * 128GB ADATA SU650 
 * Wifi Replaced with AR5B95
+* ALC 270 
 
 ## What's working ?
 * Boot
