@@ -36,6 +36,6 @@ This is an EFI Folder from my Hackintosh build running macOS Mojave. Do not full
 * HDMI Audio
 * VGA Port
 
-## Note
+## Notes
 * iMessage, Facetime & Appstore work if your preffered network adapter set to en0 ,else will not work
 * Generate your own SMBIOS using Clover Configurator
